@@ -73,10 +73,12 @@ Below the UIKit import statement, add #import <AudioToolbox/AudioToolBox.h>
 
 This import of the header file allows to set up sound playback.
 
-Please see the rest of the video.  If you have questions.  Let me know.
+Please see the rest of the video to add code.  If you have questions.  Let me know.
 
 https://www.youtube.com/watch?v=k4xGOxhFgog
 
-Below is the full video.
+Below is the video that shows how to run the app in XCode.
 
+https://youtu.be/hi9_lfKRxO8?list=PLZ5Xk6dRlYz81S9InsG1eIOWQe6XEeBUK
 
+FULL VIDEO BELOW:
